@@ -20,7 +20,7 @@ git clone https://github.com/S4yfullXD/Notpixel-Ads-V1.git
 ```
 4. Navigate to the repository:
 ```
-cd Notpixel-Ads-MI-Cyber-Warrior
+cd Notpixel-Ads-V1
 ```
 5.Add Refferal link here:
 ```
