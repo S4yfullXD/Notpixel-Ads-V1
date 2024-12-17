@@ -16,7 +16,7 @@ apt update && apt upgrade -y
 ```
 3. Clone the repository:
 ```
-git clone https://github.com/Ibaadkhan046/Notpixel-Ads-MI-Cyber-Warrior.git
+git clone https://github.com/S4yfullXD/Notpixel-Ads-V1.git
 ```
 4. Navigate to the repository:
 ```
