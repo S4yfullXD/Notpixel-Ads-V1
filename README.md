@@ -33,4 +33,4 @@ php main.php
 Enjoy Your Script 
 Warning ⚠️ Its Puplic Not for sale
 
-Follow me on Telegram Micyberwarrior 
+Follow me on Telegram @Sayfull-XD
